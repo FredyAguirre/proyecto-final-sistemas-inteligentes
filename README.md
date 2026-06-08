@@ -97,4 +97,4 @@ proyecto fue **asistido por IA generativa (Claude)** en:
 
 Todo el código fue **revisado, comprendido y adaptado** al caso de uso real por
 el equipo, que puede explicar en detalle cualquier fragmento durante la
-sustentación. *(Pendiente completar con los integrantes y el detalle final.)*
+sustentación.
