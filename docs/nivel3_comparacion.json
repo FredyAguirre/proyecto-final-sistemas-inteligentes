@@ -1,0 +1,16 @@
+{
+  "muestra": 20,
+  "nivel2_base_sin_ml": {
+    "accuracy": 0.5,
+    "aciertos": 10,
+    "total": 20,
+    "tiempo_promedio_s": 9.08
+  },
+  "nivel3_con_ml": {
+    "accuracy": 0.95,
+    "aciertos": 19,
+    "total": 20,
+    "tiempo_promedio_s": 10.39
+  },
+  "mejora_accuracy_puntos_pct": 45.0
+}

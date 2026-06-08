@@ -1,0 +1,936 @@
+id,texto,categoria,prioridad
+1509,"Apreciado equipo de soporte, No puedo acceder a la plataforma Moodle del curso Inteligencia Artificial.",plataforma,media
+1909,"Buenas tardes, Quiero reclamar una nota pero el SIA no me deja iniciar sesión.",notas,media
+1778,El certificado que descargué tiene mis datos personales equivocados. Es para hoy.,certificados,alta
+1758,"Estimados, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,media
+1539,Soliicto ampliar el plazo de préstamo de un libro para mi tesis.,biblioteca,media
+1077,Solicito información sobre el proceso de matrícula de la maestría.,matricula,baja
+1774,"Cordial saludo, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",notas,media
+1388,La página de la universidad está muy llenta hoy.,plataforma,baja
+1235,"Estimados, Solicito el reporte de notas parciales de mis materias.",notas,baja
+1749,"Estimados, El certificado que descargué tiene mis datos personales equivocados.",certificados,media
+1429,"Estimados, No puedo iniciar sesión en el SIA, me dice usuaario o contraseña incorrectos.",plataforma,alta
+1878,Quiero reclamar una nota pero el SIA no me deja iniciar sesión.,notas,media
+1033,Necesito adicionar la materia Inteligencia Artificial pero ya cerró el periodo de adiciones.,matricula,alta
+1647,No puedo descargar artículos de la base de datos institucional. Es muy importante.,biblioteca,alta
+1414,"Hola, No me llega el correo de verificación para restablecer la contraseña.",plataforma,media
+1342,¿Cómo activo mi cuenta institucional de la universidad?,plataforma,baja
+1118,"Estimadoss, ¿Puedo hacer una adición extemporánea de Inteligencia Artificial?",certificados,media
+1149,¿Cuándo abre el periodo de matrícula para el semestre 2026-2?,matricula,media
+1088,"Cordial saludo, Quiero cancelar la asignatura Redes Neuronales antes de la fecha límite.",matricula,alta
+1387,La página de la universidad está muy lenta hoy.,plataforma,baja
+1381,"Buenas tardes, Olvidé mi ccontraseña del correo institucional y no puedo recuperarla.",plataforma,media
+1814,¿Cómo descargo el certificado de notas desde el SIA?,certificados,baja
+1447,¿Cómo activo mi cuenta institucional de la universidad?,plataforma,baja
+1546,"Buenas tardes, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.",biblioteca,alta
+1152,"Buenos días, Quiero cancelar la asignatura Sistemas Inteligentes antes de la fecha límite.",matricula,media
+1270,"Cordial saludo, Solicito el reporte de notas parciales de mis materias. Tengo plazo hasta hoy.",notas,alta
+1091,"Buenas tardes, Quiero cancelar la asignatura Bases de Datos antes de la fecha límite. Es para hoy.",matricula,alta
+1148,Solicito información sobre el proceso de matrícula de la maestría.,matricula,baja
+1138,¿Cuándo abre el periodo de matrícula para el semestre 2026-1?,matricula,media
+1885,Necesito el certificado pero la plataforma no carga.,certificados,alta
+1274,"Apreciado equipo de soporte, El sistema no muestra la notta de Cálculo Diferencial aunque ya presenté el examen.",notas,media
+1444,No mme llega el correo de verificación para restablecer la contraseña.,plataforma,media
+1615,"Hola, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,media
+1198,"Cordial saludo, Aparece una asignatura como reprobada pero yo la aprobé. Lo necesito ya.",notas,alta
+1114,Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.,matricula,alta
+1224,"Cordial saludo, La nota que registró el docente de Álgebra Lineal no coincide con la del examen. Lo necesito ya.",notas,alta
+1735,"Buenas tardes, Necesito constancia de matrícula para el sisbén / EPS. Es para hoy.",certificados,alta
+1476,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,media
+1542,"Cordial saludo, ¿Cómo accedo a las bases de datos científicas desde casa? Tengo plazo hasta hoy.",biblioteca,alta
+1374,Laa plataforma SIA se cae cada vez que intento matricular.,plataforma,alta
+1812,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1358,La página de la univeersidad está muy lenta hoy.,plataforma,baja
+1412,"Apreciado equipo de soporte, No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1405,"Cordial saludo, Mi usuario quedó bloqueado tras varios intentoos de inicio de sesión. Urgente.",plataforma,alta
+1052,Solicito información sobre el proceso de matrícula de la maestría.,matricula,baja
+1784,"Buenas tardes, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,alta
+1186,"Buenos días, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1548,"Hola, Necesiito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1624,"Apreciado equipo de soporte, ¿Cómo accedo a las bases de datos científicas desde casa?",certificados,baja
+1042,"Buenos días, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado. Cierra mañana.",matricula,alta
+1135,"Buenas tardes, Mea parece un cruce de horarios entre Procesamiento de Lenguaje Natural y otra materia al matricular. Urgente.",matricula,alta
+1326,"Apreciado equipo de soporte, Necesito que revisen mi nota de Álgebra Lineal porque afecta mi grado.",notas,alta
+1112,Quiero cancelar la asignatura Álgebra Lineal antes de la fecha límite.,matricula,media
+1677,"Buenas tardes, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1706,¿Dónde solicito el diploma y acta de grado? Cierra mañana.,certificados,alta
+1725,"Buenos días, Solicito una constancia de estudios para un trámite laboral.",certificados,baja
+1173,"Hola, ¿Dónde puedo consultar mi historia académica con las notas? Urgente.",notas,alta
+1564,"Estimados, No puedo descargar artículos de la base de datos institucional.",biblioteca,alta
+1214,"Estimados, D¿ónde puedo consultar mi historia académica con las notas?",notas,baja
+1684,"Estimados, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1709,"Hola, ¿Cómo descargo el certificado de notas desde el SIIA?",certificados,media
+1707,"Hola, Necesito un certificado de notasc on urgencia para una beca que cierra hoy.",certificados,media
+1637,"Apreciado equipo de soporte, No puedo descargar artículos de la base de datos institucional.",biblioteca,alta
+1631,"Buenos días, Solicito amplair el plazo de préstamo de un libro para mi tesis. Es para hoy.",biblioteca,alta
+1839,"Estimados, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1762,"Buenas tardes, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1529,"Estimados, No puedo descargar artículos de la base de datos institucional. Urgente.",biblioteca,alta
+1201,"Cordial saludo, ¿Cuándo se publican las notas definitivas del semestre 2027-1?",notas,baja
+1142,Quiero cancelar la asignatura Bases de Datos antes de la fecha límite. Es muy importante.,matricula,alta
+1232,¿Cuándo se publican las notas definitivas del semestre 2026-2?,notas,baja
+1669,No puedo descargar artículos de la base de datos institucional.,biblioteca,media
+1103,"Buenas tardes, No me deja matricuular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1499,La página de la universidad está muy lenta hoy.,plataforma,media
+1696,"Cordial saludo, El certificado que descargué tiene mis datos personales equivocados.",certificados,media
+1602,"Cordial saludo, Quiero reservar una sala de estudio en la biblioteca.",certificados,baja
+1842,¿Dónde solicito el diploma y acta de grado?,certificados,baja
+1273,Quiero hacer un reclamo dec alificación en la asignatura Cálculo Diferencial.,notas,media
+1327,"Hola, Necesito que revisen mi nota de Programación porque afecta mi grado.",notas,media
+1794,"Hola, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1737,Requiero un paz y salvo financierro para iniciar mi grado.,certificados,alta
+1092,"Estimados, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1134,"Buenas tardes, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,media
+1359,"Apreciado equipo de soporte, El portal académico me muestra un erro r500 al ingresar.",plataforma,alta
+1046,¿Cuándo abre el periodo de matrícula para eel semestre 2026-2?,matricula,baja
+1286,"Estimados, La nota que registró el docente de Inteligencia Artificial no coincide con la del examen.",notas,media
+1853,"Buenas tardes, Voy a graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1025,"Buenos días, Solicito información sobre el proceso de matrícula de la maestría.",matricula,baja
+1854,"Buenos días, No aparece mi matrícula y tampoco puedo generar la constancia de estudios. Es muy importante.",matricula,alta
+1026,"Cordial saludo, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1929,"Cordial saludo, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1281,"Buenos días, Solicito el reporte de notas parciales de mis materias.",notas,baja
+1605,"Hola, Devolví un libro pero todavía figura como prestado a mi nombre.",biblioteca,media
+1761,"Cordial saludo, Necesito un certificado de notas con urgencia para una beca que cierra hoy. Es para hoy.",certificados,alta
+1859,"Buenas tardes, La biblioteca dice que tengo multa y por eso no me deja matricular.",matricula,alta
+1450,"Buenos días, No puedo acceder a la plataforma Moodle del curso Procesamiento de Lenguaje Natural.",plataforma,media
+1378,La plataforma SIA se cae cada vez que intento matricular.,plataforma,alta
+1528,Solicito ampliar el plazo de préstamo de un libro para mi tesis.,biblioteca,baja
+1888,Quiero reclamar una nota pero el SIA no me deja iniciar sesión.,notas,media
+1927,No aparece mi matrícula y tampoco puedo generar la constancia de estudios.,matricula,media
+1596,"Cordial saludo, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1729,"Buenas tardes, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,alta
+1874,"Hola, Tengo problemas para acceder a Moodle y ver mis calificaciones.",plataforma,media
+1512,"Apreciado equipo de soporte, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,alta
+1163,"Aperciado equipo de soporte, ¿Cuándo abre el periodo de matrícula para el semestre 2027-1?",matricula,baja
+1362,"Cordial saludo, La página de la universidad está muy lenta hoy. Cierra mañana.",plataforma,alta
+1857,Tengo problemas para acceder a Moodle y ver mis calificaciones.,plataforma,media
+1494,"Apreciado equipo de soporte, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1769,"Apreciado equipo de soporte, Pedí un certificado hace dos semanas y aún no me lo entregan.",certificados,media
+1723,"Cordial saludo, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1145,¿Puedo hacer una adición extemporánea de Redes Neuronales? Lo necesito ya.,matricula,alta
+1109,No me deja matricular porque tengo una deuda pendiente que ya pagué. Es para hoy.,matricula,alta
+1877,"Estimados, Solicito ayuda con un trámite, no sé bien a qué área corresponde.",plataforma,baja
+1585,Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.,biblioteca,media
+1089,"Cordial saludo, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1115,"Buenos días, Quiero cancelar la asignatura Álgebra Lineal antes de la fecha límite.",matricula,baja
+1484,"Hola, La plataforma SIA se cae cada vez que intento matricular.",plataforma,media
+1226,"Buenos días, Quiero hacer un reclamo de calificación en la asignatura Estadística.",notas,media
+1649,"Apreciado equipo ed soporet, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar. Tengo plazo hasta hoy.",biblioteca,alta
+1009,Solicito información sobre el proceso de matrícula de la maestría.,matricula,baja
+1593,"Estimados, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1050,No puedo inscribir la asignatura Sistemas Inteligentes pporque el sistema dice que no hay cupos.,matricula,alta
+1604,"Apreciado equipo de soporte, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1262,"Estimados, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1060,No me deja matricular porque tengo una deuda pendiente que ya pagué.,matricula,alta
+1259,"Buenos días, El sistema no muestra la nota de Cálculo Diferencial aunque ya presenté el examen.",notas,media
+1253,El profesor de Inteligencia Artificial no ha subido las notas y mañana cierra el semestre.,notas,alta
+1840,"Buenas tardes, Solicito el certificado de calificaciones para homologar en otra universidad.",certificados,media
+1131,Me aparece un cruce de horarios entre Estadística y otra materia al matricular. Es para hoy.,matricula,alta
+1005,"Hola, Quiero saber cuántos créditos puedo inscribir este semestre. Es muy importante.",matricula,alta
+1445,"Hola, La plataforma SIA se cae cada vez que intento matricular.",plataforma,alta
+1076,"Hola, Quiero saber cuántos créditos puedo innscribir este semestre.",matricula,baja
+1508,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,alta
+1571,"Cordial saludo, ¿Cuál es el hroario de atención de la biblioteca?",biblioteca,baja
+1903,"Buenas tardes, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1297,"Apreciado equipo de soporte, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1586,"Apreciado equipo de soporte, ¿Cuál es el horario de atención de la biblioteeca?",biblioteca,baja
+1565,¿Cuál es el horario de atención de la biblioteca?,biblioteca,baja
+1039,"Buenas tardes, ¿Puedo hacer una adición extemporánea de Álgebra Lineal?",matricula,alta
+1455,No me llega el correo de verificación para restablecer la contraseña.,plataforma,media
+1413,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,alta
+1353,No me llega el corre ode verificación para restablecer la contraseña.,plataforma,baja
+1670,Devolví un libro pero todavía figura como prestado a mi nombre.,biblioteca,baja
+1433,"Buenos días, No puedo acceder a la plataforma Moodle del curso Inteligencia Artificial. Tengo plazo hasta hoy.",plataforma,alta
+1349,Olvidé mi contraseña del correo institucional y no puedo recuperarla.,plataforma,media
+1704,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1871,La biblioteca dice que tengo multa y por eso no me deja matricular.,matricula,alta
+1800,"Apreciado equipo de soporte, El certificado que descargué tiene mis datos personales equiivocados.",certificados,media
+1562,Me aparece una multa en la biblioteca que no reconozco.,biblioteca,media
+1275,¿Dónde puedo consultar mi historia académica con las notas?,notas,baja
+1324,"Apreciado equipo de soporte, El sistema no muestra la nota de Machine Learning aunque ya presenté el examen.",notas,media
+1591,"Apreciado equipo de soporte, ¿Cuál es el horario de atención de la biblioteca? Es muy importante.",biblioteca,alta
+1646,"Estimados, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1072,"Apreciado equipo de soporte, ¿Cuándo abre el periodo de matrícula para el semestre 2026-2?",matricula,baja
+1158,"Estimados, Solicito información sobre el proceso de matrícula de la maestría.",matricula,baja
+1116,"Apreciado equipo de soporte, No me deja matricular porque tengo una deuda pendiente que ya pagué. Es para hoy.",matricula,alta
+1396,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,alta
+1738,Solicito el certificado de calificaciones para homologar en otra universidad. Lo necesito ya.,certificados,alta
+1435,"Estimados, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión. Lo necesito ya.",plataforma,alta
+1037,"Cordial saludo, ¿Puedo hacer una adición extemporánea de Cálculo Diferencial?",matricula,media
+1822,Solicito una constancia de estudios para un trámite laboral.,certificados,media
+1756,"Apreciado equipo de soporte, Necesito un certificado de notas con urgencia para una beca que cierra hoy. Urgente.",certificados,alta
+1912,"Estimados, Buenas, tengo una duda general sobre un proceso de la universidad. Cierra mañana.",plataforma,alta
+1504,"Cordial saludo, El portal académico me muestra un error 500 al ingresar. Es muy importante.",matricula,alta
+1367,"Buenos días, Olvidé mi contraseña del correo institucional y no puedo recuperarla.",plataforma,baja
+1409,"Estimados, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1584,"Buenos días, ¿Cuál es el horario de atención de la biblioteca?",certificados,baja
+1896,"Hola, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1261,Quiero hacer un reclamo de calificación en la asignatura Procesamiento de Lenguaje Natural.,notas,media
+1439,La página de la universidad está muy lenta hoy.,plataforma,baja
+1208,"Buenos días, El profesor de Minería de Datos no ha subido las notas y mañana cierra el semestre.",notas,alta
+1491,No puedo acceder a la plataforma Moodle del curso Sistemas Inteligentes.,plataforma,media
+1540,"Estimados, Solicito ampliar el plazo de préstamo de un libro para mi tesis. Lo necesito ya.",biblioteca,alta
+1555,"Buenos días, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1269,"Buenos días, ¿Cuándo se publican las notas definitivas del semestre 2026-2?",notas,baja
+1572,"Hola, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1823,Necesito constancia de matrícula para el sisbén / EPS.,certificados,media
+1543,"Hola, ¿Cuál es el horario de atención de laa biblioteca?",biblioteca,baja
+1934,"Buenos días, No aparece mi matrícula y tampoco puedo generar la constancia de estudios.",matricula,media
+1507,"Hola, La plataforma SIA se cae cadaa vez que intento matricular.",plataforma,alta
+1495,"Apreciado equipo de soporte, El portal académico me muestra un error 500 al ingresar. Es para hoy.",plataforma,alta
+1215,"Cordial saludo, ¿Cuándo se publican las notas definitivas del semestre 2027-1?",notas,baja
+1277,Solicito el reporte de notas parciales de mis materias. Tengo plazo hasta hoy.,notas,alta
+1556,"Buenos días, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.",biblioteca,media
+1813,Pedí un certificad ohace dos semanas y aún no me lo entregan.,certificados,media
+1094,"Buenas tardes, Me aparece un cruce de horarios entre Procesamiento de Lenguaje Natural y otra materia al matricular. Urgente.",matricula,alta
+1847,"Estimados, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1872,"Estimados, No puedo entrar alS IA para inscribir Procesamiento de Lenguaje Natural, ¿es problema de la plataforma o de matrícula?",matricula,media
+1712,"Cordial saludo, Solicito una constancia de estudios para un trámite laboral. Cierra mañana.",certificados,alta
+1151,No me deja matricular porque tengo una deuda pendiente que ya pagué. Urgente.,matricula,alta
+1312,"Buenos días, Mi promedio (PAPA) aparece mal calculado en el sistema.",notas,media
+1805,"Hola, Requiero un paz ys alvo financiero para iniciar mi grado.",certificados,alta
+1306,"Estimados, ¿Cuándo se publican las notas definitivas del semestre 2026-1?",notas,baja
+1689,"Estimados, Necesito constancia de matrícula para el sisbén / EPS.",certificados,baja
+1247,"Buenas tardes, Necesito que revisen mi nota de Bases de Datos porque afecta mi grado.",notas,media
+1770,"Buenas tardes, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,alta
+1305,"Cordial saludo, ¿Cuándo se publican las notas definitivas del semestre 2026-1?",notas,baja
+1569,"Buenos días, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,baja
+1415,"Buenas tardes, No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1423,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión. Cierra mañana.,plataforma,alta
+1802,"Buenos días, Solicito una constancia de estudiso para un trámite laboral. Es muy importante.",certificados,alta
+1829,Pedí un certificado hace dos semanas y aún no me lo entregan.,certificados,baja
+1200,"Buenos días, ¿Dónde puedo consultar mi historia académica con las notas? Es muy importante.",notas,alta
+1288,"Estimados, ¿Cuándo se publican las notas definitivas del semestre 2027-1?",notas,baja
+1167,"Cordial saludo, ¿Puuedo hacer una adición extemporánea de Machine Learning?",matricula,media
+1790,"Hola, El certificcado que descargué tiene mis datos personales equivocados.",certificados,media
+1791,"Cordial saludo, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1804,¿Cómo descargo el certificado de notas desde el SIA?,certificados,baja
+1190,Aparece una asignatura como reprobada pero yo la aprobé.,notas,alta
+1594,"Estimados, Devolví un libro pero todavía figura como prestado a mi nombre.",biblioteca,media
+1287,Aparece una asignatura como reprobada pero yo la aprobé.,notas,alta
+1901,"Buenos días, La biblioteca dice que tengo multa y por eso no me deja matricular.",matricula,alta
+1648,El sistema de la biblioteca no me deja hacerr el préstamo de un ejemplar.,biblioteca,baja
+1417,"Hola, ¿Cómo activo mi cuenta institucional de la universidad?",plataforma,baja
+1153,"Cordial saludo, Solicito información sobre el proceso de matríícula de la maestría.",matricula,baja
+1236,"Estimados, ¿Cuándo se publican las notas definitivas del semestre 2027-1?",notas,baja
+1403,La página de la universidad está muy lenta hoy.,plataforma,baja
+1057,"Apreciado equipo de soporte, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1347,"Apreciado equipo de soporte, La plataforma SIA se cae cada vez que intento matricular.",plataforma,media
+1560,"Buenos días, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,baja
+1520,Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme. Tengo plazo hasta hoy.,biblioteca,alta
+1850,"Estimados, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1125,"Buenas tardes, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1742,Necesito un certificado de notas con urgencia para una beca que cierra hoy.,certificados,alta
+1860,"Apreciado equipo de soporte, Necesito el certificado pero la plataforma no carga. Lo necesito ya.",certificados,alta
+1636,"Apreciado equipo de soporte, Tengo un paz y salvo pendiente con la bibliotec ay necesito graduarme.",biblioteca,alta
+1034,"Buenos días, Me aparece un cruce de horarios entre Inteligencia Artificial y otra materia al matricular.",matricula,media
+1640,"Cordial saludo, El sistema de la biblioteeca no me deja hacer el préstamo de un ejemplar.",biblioteca,baja
+1659,"Buenas tardes, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1890,"Buenos díass, Necesito el certificado pero la plataforma no carga.",certificados,alta
+1229,"Apreciado equipo de soporte, ¿Dónde puedo consultar mi historia académica con las notas? Lo necesito ya.",notas,alta
+1121,"Cordial sauldo, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1170,"Hola, Necesito que revisen mi nota de Bases de Datos porque afecta mi grado.",notas,media
+1264,Necesito que revisenn mi nota de Programación porque afecta mi grado.,notas,media
+1283,"Cordial saludo, El profesor de Programación no ha subido las notas y mañana cierra el semestre.",notas,alta
+1532,"Buenos días, Solicito ampliar el plazo de préstamo de un libro para mi tessi.",biblioteca,media
+1861,"Buenos días, No puedo entrar al SIA para inscribir Programación, ¿es problema de la plataforma o de matrícula? Urgente.",matricula,alta
+1422,"Apreciado equipo de soporte, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1841,"Buenas tardes, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1291,Necesito que revisen mi nota de Bases de Datos porque afecta mi grado.,notas,alta
+1751,"Apreciado equipo de soporte, Pedí un certificado hace dos semanas y aún no me lo entregan.",certificados,alta
+1463,"Buenas tardes, La plataforma SIA se cae cada vez que intento matricular.",plataforma,media
+1663,Necesito renovar el préstamo de un libro que vence hoy.,biblioteca,alta
+1276,"Cordial saludo, Necesito que revisen mi nota de Minería de Datos porque afecta mi grado.",notas,alta
+1848,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1816,¿Cómo descargo el certificad ode notas desde el SIA?,certificados,baja
+1917,Tengo problemas para acceder a Moodle y ver mis calificaciones.,plataforma,media
+1771,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1022,"Buenos días, ¿Cuándo abre el periodo de matrícula para el semestre 2026-1?",matricula,baja
+1522,"Cordial saludo, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1579,"Buenos días, No puedo descargar artículos de la base de datos institucional. Cierra mañana.",biblioteca,alta
+1558,Necesito renovar el préstamo de un libro que vence hoy.,biblioteca,alta
+1322,"Apreciado equipo de soporte, Necesito que revisen mi nota de Bases de Datos porque afecta mi grado.",notas,alta
+1344,"Buenos días, La página de la universidad está muy lenta hoy.",plataforma,baja
+1054,"Apreciado eequipo de soporte, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1690,"Buenos días, Solicito el certificado de calificaciones para homologar en otra universidad. Cierra mañana.",certificados,alta
+1664,"Buenas tardes, Quiero reservar una sala de estudio en la biblioteca.",biblioteca,media
+1246,La nota que registró el docente de Redes Neuronales no coincide con la del examen.,notas,media
+1427,No puedo acceder a la plataforma Moodle del curso Inteligencia Artificial. Lo necesito ya.,plataforma,alta
+1228,"Buenas tardes, Solicito el reporte de notas parciales de mis materias.",notas,baja
+1401,"Hola, La página de la universiadd está muy lenta hoy.",plataforma,baja
+1239,¿Dónde puedo consultar mi historia académica con las notas?,notas,baja
+1410,¿Cómo activo mi cuenta institucional de la universidad?,plataforma,baja
+1645,No puedo descargar artículos de la base de datos institucional.,biblioteca,media
+1793,"Cordial saludo, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1845,Pedí un certificado hace dos semanas y aún no me lo entreggan.,certificados,media
+1716,"Estimados, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",certificados,media
+1776,"Hola, Requiero un paz y salvo financiero paar iniciar mi grado.",certificados,alta
+1764,Necesito un certificado de notas con urgencia para una beca que cierra hoy. Cierra mañana.,certificados,alta
+1426,"Apreciado equipo de soporte, El portal académico me muestra un error 500 al ingresar.",plataforma,alta
+1557,Solicito ampliar el plazo de préstamo de un libro para mi tesis.,biblioteca,baja
+1755,"Cordial saludo, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,alta
+1904,"Solicito ayuda con un trámite, no sé bien a qué área corresponde.",plataforma,baja
+1302,Quiero hacer un reclamo de calificación en la asignatura Redes Neuronales.,notas,media
+1642,"Hola, ¿Cómo accedo a las abses de datos científicas desde casa?",biblioteca,baja
+1314,El sistema no muestra la nota de Inteligencia Artificial aunque ya presenté el examen.,notas,media
+1466,"Buenos días, El portal académico me muestra un error 500 al ingresar.",plataforma,alta
+1418,Olvidé mi contraseña del correo institucional y no puedo recuperarla.,plataforma,media
+1676,"Apreciado equipo de soporte, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1553,"Buenas tardes, Quiero reservar una sala de estudio en la biblioteca.",biblioteca,media
+1119,Me aparece un cruce de horarios entre Machine Learning y otra materia al matricular.,matricula,baja
+1576,No puedo descargar artículos de la base de datos institucional.,biblioteca,alta
+1166,Necesito adicionar la materia Inteligencia Artificial pero ya cerró el periodo dea diciones.,matricula,alta
+1023,"Cordial saludo, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1321,"Buenos días, El profesor de Estdaística no ha subido las notas y mañana cierra el semestre.",biblioteca,alta
+1008,"Buenos días, ¿Puedo hacer una adición extemporánea de Machine Learning?",matricula,media
+1164,"Hola, Necesito adicionar la materia Estadística pero ya cerró el periodo de adiciones.",matricula,alta
+1485,"Apreciado equipo de soporte, No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1449,La página de la universidad está muy lenta hoy.,plataforma,baja
+1869,Tengo problemas para acceder a Moodle y ver mis calificaciones.,plataforma,media
+1521,"Estimados, Soolicito ampliar el plazo de préstamo de un libro para mi tesis.",certificados,baja
+1595,"Apreciado equipo de soporte, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1231,"Estimados, ¿Cuándo se publican las notas definitivas del semestre 2026-1?",notas,baja
+1460,"Estimados, El portal académico me muestra un error 500 al ingresar. Es para hoy.",plataforma,alta
+1611,"Hola, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1741,"Hola, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1271,¿Dónde puedo consultar mi historia académica con las notas?,notas,media
+1062,"Hola, ¿Cuándo abre el periodo de matrícula para el semestre 2026-2?",matricula,baja
+1815,"Buenas tardes, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1567,"Apreciado equipo de soporte, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1205,"Apreciado equipo de soporte, El sistema no muestra la nota de Inteligencia Artificial aunque ya presenté el examen.",notas,media
+1526,"Estimados, El sistema de la bibliotecan o me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1001,"Estimados, ¿Puedo hacer una adición extemporánea de Programación? Es para hoy.",matricula,alta
+1457,"Cordial saludo, El portal académico me muestra un error 500 al ingresar.",notas,alta
+1169,"Estimados, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1719,"Hola, Necesito constancia de matrícula para el sisbén / EPS. Tengo plazo hasta hoy.",certificados,alta
+1458,"Buenos días, El portal académico me muestra un error 500 al ingresar.",plataforma,alta
+1623,"Apreciado equipo de soporte, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1724,"Cordial saludo, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1184,"Hola, ¿Dónde puedo consultar mi historia académica con las notas?",notas,media
+1122,"Buenas tardes, Solicito información sobre el proceso de matrícula de la maestría.",matricula,baja
+1801,"Estimados, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",certificados,alta
+1430,La plataforma SIA se cae cada vez que intento matricular.,plataforma,media
+1189,El profesor de Estadística no ha subido las notas y mañana cierra el semestre.,notas,alta
+1610,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.,biblioteca,media
+1219,"Hola, Quiero hacer un reclamo de calificación en la asignatura Redes Neuronales.",notas,media
+1608,"Estimados, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme. Cierra mañana.",biblioteca,alta
+1824,"Buenas tardes, ¿Cómo descargo el certificado de notas desde el SIA? Cierra mañana.",certificados,alta
+1609,"Hola, Quiero reservar una sala de estudioo en la biblioteca.",biblioteca,baja
+1810,"Hola, Solicito el certificado de calificaciones para homologar en otra universidad.",certificados,media
+1836,"Cordial saludo, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1266,"Buenas tardes, El profesor de Álgebra Lineal no ha subido las notas y mañana cierra el semestre.",notas,alta
+1574,"Cordial saludo, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1919,"Apreciado equipo de soporte, La biblioteca dice que tengo multa y por eso no me deja matricular.",matricula,alta
+1928,"Solicito ayuda con un trámite, no sé bien a qué área corresponde.",plataforma,baja
+1267,"Buenos días, La nota que registró el docente de Cálculo Diferencial no coincide con la del examen. Es para hoy.",notas,alta
+1506,"Cordials aludo, No puedo acceder a la plataforma Moodle del curso Redes Neuronales.",plataforma,media
+1382,"Cordial saludo, El portal académico me muestra un error 500 al ingresar.",plataforma,alta
+1852,"Hola, Solicito ayuda con un trámite, no sé bien a qué área corresponde.",plataforma,baja
+1797,"Buenas tardes, Necesito constancia de matrícula para el sisbén / EPS.",certificados,baja
+1537,"Hola, No puedo descargar artículos de la base de datos institucional. Tengo plazo hasta hoy.",biblioteca,alta
+1629,"Estimados, ¿Cómo accedo a las bases de datos científicas desde casa?",biblioteca,baja
+1031,"Estimados, ¿Puedo hacer una adición extemporánea de Cálculo Difereencial? Lo necesito ya.",matricula,alta
+1700,"Apreciado equipo de soporte, Solicito una constancia de estudios para un trámite laboral.",plataforma,media
+1051,"Apreciado equipo de soporte, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado. Cierra mañana.",matricula,alta
+1933,El sistema no me deja ver mis notas ni descargar el certificado. Lo necesito ya.,certificados,alta
+1534,"Cordial saludo, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1120,"Buenos días, Necesito adicionar la materia Álgebra Lineal pero ya cerró el periodo de adiciones.",matricula,alta
+1299,"Apreciado equipo de soporte, Necesito que revisen mi nota de Minería de Datos porque afecta mi grado.",notas,alta
+1657,"Buenos días, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1635,"Apreciado equipo de soporte, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1905,"Buenas tardes, Necesito el certificado ppero la plataforma no carga.",certificados,alta
+1141,"Hola, ¿Cuándo abre el periodo de matrícula para el semestre 2026-2?",matricula,baja
+1479,"Cordial saludo, No me llega el correo de verificación para restablecer la contraseña. Urgente.",plataforma,alta
+1193,"Cordial saludo, El sistema no muestra la nota de Machine Learning aunque ya presenté el examen.",notas,baja
+1043,"Buenas tardes, ¿Cuándo abre el periodo de matrícula para el semestre 2026-1?",matricula,baja
+1150,Necesito adicionar la materia Estadística pero ya cerró el periodo de adiciones.,matricula,alta
+1833,"Buenos días, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1525,"Hola, El sistem ade la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1630,"Buenos días, Necesito renovar el préstamo de un lbiro que vence hoy.",biblioteca,alta
+1653,"Apreciado equipo de soporte, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1319,Mi promedio (PAPA) aparece mal calculado en el sistema.,notas,media
+1320,"Apreciado equipo de soporte, Quiero hacer un reclamo de calificación en la asignatura Álgebra Lineal.",notas,media
+1768,"Estimados, ¿Cuánto cuesta y cuánto tarda un certiifcado de estudios?",certificados,baja
+1483,"Buenos días, ¿Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1876,La biblioteca dice que tengo multa y por eso no me deja matricular.,matricula,alta
+1796,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1660,"Estimados, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1030,"Buenos días, Solicito información sobre el proceso de matrícula de la maestría. Cierra mañana.",matricula,alta
+1734,"Bueenos días, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1370,La plataforma SIA se cae cada vez que intento matricular.,plataforma,alta
+1828,Pedí un certificado hace dos semanas y aún no me lo entregan.,certificados,media
+1781,"Cordial saludo, Necesito constancia de matrícula para el sisbén / EPS.",certificados,alta
+1230,La nota que registró el docente de Sistemas Inteligentes no coincide con la del examen.,notas,media
+1056,Quiero cancelar la asignatura Cálculo Diferencial antes de la fecha límite.,matricula,media
+1634,"Apreciado equipo de soporte, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1746,¿Cómo descargo el certificado de notas desde el SIA?,certificados,baja
+1607,¿Cuál es el horario de atención de la biblioteca?,biblioteca,baja
+1101,"Hola, Me aparece un cruce de horarios entre Minería de Datos y otra materi aal matricular. Tengo plazo hasta hoy.",matricula,alta
+1932,"Buenas tardes, La biblioteca dice que tengo multa y por eso no me deja matricular.",matricula,alta
+1360,"Cordial saludo, ¿Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1911,Quiero reclamar una nota epro el SIA no me deja iniciar sesión.,notas,media
+1490,"Buenas tardes, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1090,"Apreciado equipo de soporte, Me aparece un cruce de horarios entre Álgebra Lineal y otra materia al matricular.",matricula,media
+1087,"Hola, ¿Puedo hacer una adición extemporánea de Minería de Datos?",matricula,alta
+1220,"Apreciado equipo de soporte, Quiero hacer un reclamo de calificación en la asignatura Sistemas Inteligentes.",notas,media
+1147,"Buenas tardes, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1335,"Apreciado equipo de soporte, ¿Cuándo se publican las notas definitivas del semestre 2027-1?",notas,baja
+1379,No me llega el correo de verificación para restablecer la contraseña.,plataforma,alta
+1268,"Buenas tardes, Quiero hacer un reclamo de calificación en la asignatura Sistemas Inteligentes. Lo necesito ya.",plataforma,alta
+1213,"Cordial saludo, Mi promedio (PAPA) aparece mal calculado en el sistema.",notas,media
+1544,"Apreciado equipo de soporte, No puedo descargar artículos de la base de datos institucional.",biblioteca,alta
+1825,"Buenas tardes, Solicito una constancia de estudios para un trámite laboral.",certificados,alta
+1699,"Apreciado equipo de soporte, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1000,Necesito adicionar la materia Cálculo Diferencial pero ya cerró el periodo de adiciones.,matricula,alta
+1497,"Apreciado equipo de soporte, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1086,¿Puedo hacer una adición extemporánea de Bases de Datos?,matricula,media
+1003,Quiero cancelar la asignatura Inteligencia Artifiicial antes de la fecha límite.,matricula,media
+1666,"Apreciado equipo de soporte, No puedo descargar artículos de la base de datos institucional.",biblioteca,baja
+1531,Quiero reservar una sala de estudio en la biblioteca.,biblioteca,baja
+1789,"Estimados, Requiero un paz y salvo financiero para iniciar mi grado. Lo necesito ya.",certificados,alta
+1392,"Buenas tardes, No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1782,"Estimados, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1603,"Buenas tardes, No puedo descargar artículos de la base de datos instittucional.",biblioteca,alta
+1592,"Apreciado equipo de soporte, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1513,"Estimados, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1176,"Buenas tardes, El profesor de Procesamiento de Lenguaje Natural no ha subido las notas y mañana cierra el semestre.",notas,alta
+1293,"Buenos días, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1914,"Cordial saludo, No aparece mi matrícula y tampoco puedo generar la constancia de estudios.",matricula,media
+1578,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar. Es muy importantee.,biblioteca,alta
+1708,"Buenas tardes, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,media
+1372,¿Cuál es el enlace correcto para entrar al sisstema académico?,plataforma,baja
+1385,¿Cómo activo mi cuuenta institucional de la universidad?,plataforma,baja
+1580,"Estimados, No puedo descargar artículos de la base de datos institucional.",biblioteca,alta
+1375,"Buenos días, La página de la universidad está muy lenta hoy.",plataforma,baja
+1487,"Cordial saludo, La página de la universidad está muy lenta hoy.",plataforma,media
+1779,"Cordial saludo, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1195,"Hola, Solicito el reporte de notas parciales de mis materias.",notas,baja
+1337,Necesito que revisen mi nota de Cálculo Diferencial porque afecta mi grado.,notas,media
+1272,¿Cuándo se publican las notas definitivas del semestre 2026-1? Es para hoy.,notas,alta
+1501,"Hola, La página de la universidad está muy lenta hoy.",plataforma,media
+1154,"Buenas tardes, Necesito adicionar la materia Estadística pero ya cerró el periodo de adiciones.",matricula,alta
+1354,"No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1129,Necesito adicionar la materia Redes Neuronales pero ya cerró el periodo de adiciones. Es para hoy.,matricula,alta
+1662,"Estimados, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1747,"Apreciado equipo de soporte, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1216,Quiero hacer un reclamo de calificación en la asignatura Álgebra Lineal.,notas,media
+1096,"Hola, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1265,"Estimados, Solicito el reporte de notas parciales de mis materias.",notas,baja
+1041,"Cordial saludo, Solicito información sobre el proceso de matrícula de la maestría.",matricula,baja
+1300,"Estimados, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1446,"Estimados, No puedo acceder a la plataforma Moodle del curso Cálculo Diferencial.",plataforma,baja
+1898,"Apreciado equipo de soporte, No puedo entrar al SIA para inscribir Procesamiento de Lenguaje Natural, ¿es problema de la plataforma o de matrícula?",plataforma,media
+1873,"No puedo entrar al SIA para inscribir Sistemas Inteligentes, ¿es problema de la plataforma o de matrícula? Es muy importante.",matricula,alta
+1364,"Apreciado equipo de soporte, E lportal académico me muestra un error 500 al ingresar.",plataforma,alta
+1573,"Apreciado euqipo de soporte, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1047,"Buenas tardes, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1470,"Buenos días, No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1059,Necesito adicionar la materia Álgebra Lineal pero ya cerró el periodo de adiciones.,matricula,alta
+1568,Necesito renovar el préstamo de un libro que vence hoy. Urgente.,biblioteca,alta
+1082,"Buenas tardes, Me aparece un cruce de horarios entre Sistemas Inteligentes y otra materia al matricular.",matricula,media
+1915,"Cordial saludo, Voy a graduarme ym e falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1296,"Buenas tardes, ¿Dónde puedo consultar mi historia aacdémica con las notas?",notas,baja
+1671,"Buenos días, Devolví un libro pero todavía figura como prestado a mi nombre.",biblioteca,media
+1710,Solicito el certificado de calificaciones para homologar en otra universidad. Lo necesito ya.,certificados,alta
+1480,"Apreciado equipo de soporte, La plataforma SSIA se cae cada vez que intento matricular.",plataforma,alta
+1440,"Hola, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1348,"Apreciado equipo de soporte, La plataforma SIA se cae cada vez que intento matricular.",plataforma,alta
+1233,"Hola, Quiero hacer un reclamo de calificación en la asignatura Bases de Datos.",notas,media
+1309,"Buenos días, Aparece una asignatura como reprobada pero yo la aprobé. Urgente.",notas,alta
+1868,"Buenas tardes, No aparece mi matrícula y tampoco puedo generar la constancia de estudios.",matricula,media
+1075,"Hola, ¿Cuándo abre el periodo de matrícula para el semestre 2027-1?",matricula,baja
+1673,"Buenos días, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1628,No puedo descargar artículos de la base de datos institucional. Tengo plazo hasta hoy.,biblioteca,alta
+1357,No puedo acceder a la plataforma Moodle del curso Procesamiento de Lenguaje Natural.,plataforma,baja
+1688,"Estimados, Necesito constancia de matrícula para el sisbén / EPS. Lo necesito ya.",certificados,alta
+1346,El portal académico me muestra un error 500 al ingresar. Lo necesito ya.,plataforma,alta
+1361,"Buenos días, ¿Cuál es el enlace correcto para entrar al sistema académico? Urgente.",plataforma,alta
+1655,"Hola, Devolví un libro pero todavía figura como prestado a mi nombre .Lo necesito ya.",biblioteca,alta
+1185,Solicito el reporrte de notas parciales de mis materias.,notas,media
+1416,La página de la universidad está muy lenta hoy.,plataforma,baja
+1017,"Hola, ¿Puedo hacer una adición extemporánea de Sistemas Inteligentes?",matricula,media
+1694,"Buenos días, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1786,"Buenos días, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1126,"Hola, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1376,"Hola, No puedo acceder a la plataforma Moodle del curso Estadística.",plataforma,media
+1652,"Hola, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1667,"Cordial saludo, ¿Cómo accedo a las bases de datos científicas desde casa?",biblioteca,baja
+1788,"Cordial saludo, ¿Cuánto cuesta y cuánto tarda un certificado de estudios? Es muy importante.",certificados,alta
+1029,Quiero cancelar la asignatura Inteligencia Artificial antes de la fecha límite.,matricula,alta
+1356,"Cordial saludo, ¿Cómo activo mi cuenta institucional de la universidad? Es para hoy.",plataforma,alta
+1188,"Buenos días, Necesito que revisen mi nota de Cálculo Diferencial porque afecta mi grado.",notas,media
+1352,"Estimados, La página de la universidad está muy lenta ohy.",plataforma,baja
+1590,Quiero reservar una sala de estudio en la biblioteca.,biblioteca,baja
+1488,"Hola, Mi usuario quedó bloquaedo tras varios intentos de inicio de sesión.",plataforma,media
+1363,¿Cuál es el enlace correcto para entrar al sistema académico?,plataforma,baja
+1260,Mi promedio (PAPA) aparece mal calculado en el sistema.,notas,media
+1178,"Hola, ¿Cuándo se publican las notas definitivas del semestre 2027-1? Tengo plazo hasta hoy.",notas,alta
+1369,"Cordial saludo, No puedo acceder a la plataforma Moodle del curso Sistemas Inteligentes. Urgente.",plataforma,alta
+1616,"Apreciado equipo de soporte, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1827,"Buenos días, Solicito el certificado de calificaciones para homologar en otra universidad.",certificados,alta
+1394,"Apreciado equipo de soporte, ¿Cómo activo mi cuenta institucional de la univversidad?",plataforma,baja
+1130,"Buenas tardes, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1799,"Cordial saludo, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1527,"Estimados, Devolví un libro pero todavía figura como prestado a mi nombre.",biblioteca,media
+1099,No me deja matricular porque tengo una deuda pendiente que ya pagué.,certificados,alta
+1083,"Hola, ¿Cuándo abre el periodo dee matrícula para el semestre 2027-1?",matricula,baja
+1289,"Cordial saludo, El sistema no muestra la nota de Inteligencia Artificial aunque ya presenté el examen.",notas,media
+1477,"Hola, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión. Es muy importante.",plataforma,alta
+1787,"Cordial saludo, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1063,Necesito adicionar la materia Bases de Datos pero yac erró el periodo de adiciones.,matricula,alta
+1835,"Estimados, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,media
+1019,"Hola, Necesito adicionar la materia Sistemas Inteligentes pero ya cerró el periodo de adiciones.",matricula,media
+1453,No me llega el correo de verificación para restablecer la contraseña.,plataforma,media
+1559,"Apreciado equipo de soporte, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.",biblioteca,alta
+1036,¿Cuándo abre el periodo de matrícula para el semestre 2026-2?,matricula,baja
+1732,"Apreciado equipo de soporte, Pedí un certificado hace dos semanas y aún no me lo entregan.",certificados,media
+1328,"Buenas tardes, Mi promedio (PAPA) aparece mal calcualdo en el sistema. Tengo plazo hasta hoy.",notas,alta
+1722,"Estimados, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1798,"Apreciado equipo de soporte, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1752,"Buenas tardes, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1498,"Buenast ardes, ¿Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1380,Olvidé mi contraseña del correo institucional y no puedo recuperarla. Tengo plazo hasta hoy.,plataforma,alta
+1551,"Buenas tardes, Solicito ampliar el plazo de préstamo de un libro para mi tesis. Es para hoy.",biblioteca,alta
+1481,La página de la universidad está muy lenta hoy.,plataforma,baja
+1668,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.,biblioteca,baja
+1772,"Buenos días, Necesito un certificado de notas con urgencia para una beca que cierrah oy.",certificados,media
+1855,"Apreciado equipo de soporte, Solicito ayuda con un trámite, no sé bien a qué área corresponde. Es para hoy.",plataforma,alta
+1251,"Apreciado euqipo de soporte, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1899,"Buenas tardes, La biblioteca dice que tengo multa y por eso no me deja matricular.",matricula,alta
+1371,"Cordial saludo, Olvidé mi contraseña del correo instituccional y no puedo recuperarla.",plataforma,media
+1373,"No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1757,"Estimados, Requiero un paz y salvo financiero para iniciar mi grado. Urgente.",certificados,alta
+1441,La ppágina de la universidad está muy lenta hoy. Es para hoy.,plataforma,alta
+1570,"Cordial saludo, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.",biblioteca,alta
+1002,¿Puedo hacer una adición extemporánea de Inteligencia Artificial?,matricula,media
+1633,No puedo descargar artículos de la base de datos institucional. Urgente.,biblioteca,alta
+1651,"Hola, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme. Es muy importante.",biblioteca,alta
+1727,"Estimados, Necesito constancia de matrícula para el sisbén / EPS.",certificados,baja
+1100,"Buenos días, No puedo inscribir la asignatura Programación porque el sistema dice que no hay cupos.",matricula,alta
+1240,¿Cuándo se publican las notass definitivas del semestre 2027-1?,notas,baja
+1720,"Buenas tardes, ¿Cuánto cuesta y cuánto tarda un certificado de estudios? Urgente.",certificados,alta
+1831,"Apreciado equipo de soporte, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1341,"No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1073,"Cordial saludo, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1541,"Apreciado equipo de soporte, Devolví un libro pero todavía figura como prestado a mi nombre. Cierra mañana.",biblioteca,alta
+1598,"Buenas tardes, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1895,"Buenas tardes, Voy a graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1464,La página de la universidad está muy lenta hoy.,plataforma,baja
+1313,"Hola, ¿Dónde puedo consultar mi historia académicac on las notas?",notas,baja
+1474,El portal académico me muestra un error 500 al ingresar.,plataforma,alta
+1389,"Cordial saludo, Olvidé mi contraseña del correo institucional y no puedo recuperarla.",plataforma,media
+1263,"Buenas tardes, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1820,"Hola, ¿Cuánto cuesta y cuánto tarda un certificado de estudios? Es muy importante.",certificados,alta
+1156,"Cordial saludo, Quiero cancelar la asignatura Redes Neuronales antes de la fecha límite.",matricula,media
+1307,¿Dónde puedo consultar mii historia académica con las notas?,notas,baja
+1085,Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.,matricula,alta
+1437,"Buenas tardes, El portal académico me muestra un error 500 al ingresar.",plataforma,alta
+1745,¿Dónde solicito el diploma y acta de grado? Urgente.,certificados,alta
+1020,"Apreciado equipo de soporte, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,media
+1625,"Estimados, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1159,"Apreciado equipo de soporte, No puedo inscribir la asignatura Bases de Datos porque el sistema dice que no hay cupos. Urgente.",matricula,alta
+1443,"Buenas tardes, Olvidé mi contraseña del correo institucional y no puedo recuperarla.",plataforma,media
+1517,"Estimados, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1432,No me llega el correo de verificación para restablecer la contraseña.,plataforma,media
+1721,"Apreciado equipo de soporte, Pedí un certificado hace dos semanas y aún no me lo entregan.",certificados,media
+1740,"Apreciado equipo de soporte, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1679,Necesito renovar el préstamo de un libro que vence hoy.,biblioteca,alta
+1698,Necesito un certificado de notas con urgencia para un abeca que cierra hoy.,certificados,alta
+1407,"Apreciado equipo de soporte, La plataforma SIA se cae cada vez que intento matricular.",plataforma,alta
+1368,"Apreciado equipo de soporte, La página de la universidad está muy lenta hoy.",plataforma,baja
+1606,¿Cómo accedo a las bases de datos científicas desde casa?,biblioteca,baja
+1492,"Buenos días, No puedo acceder a la plataforma Moodle del curso Sistemas Inteligentes.",plataforma,media
+1278,"Buenas tardes, ¿Cuándo se publican las notas definitivas del semestre 2026-2?",notas,baja
+1600,"Buenos días, Me aparece una multa en la biblioteca que no reconozco. Lo necesito ya.",biblioteca,alta
+1620,"Buenos días, ¿Cómo accedo a las bases de datos científicas desde casa?",biblioteca,baja
+1292,"Buenos días, El profesor de Sistemas Inteligentes no ha subido las notas y mañana cierra el semestre. Es muy importante.",notas,alta
+1310,"Estimados, Necesito que revisen mi nota de Inteligencia Artificial porque afecta mi grado.",notas,alta
+1577,"Buenas tardes, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1180,Aparece una asignatura como reprobada pero yo la aprobé. Cierra mañana.,notas,alta
+1434,¿Cuál es el enlace correcto para entrar al sistema académico?,plataforma,baja
+1250,Quiero hacer un reclamo de calificación en la asignatura Procesamiento de Lenguaje Natural.,notas,baja
+1202,"Estimados, Aparece una asignatura como reprobada pero yo la aprobé. Lo necesito ya.",notas,alta
+1777,"Buenos días, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1318,"Buenas tardes, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1478,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión. Es para hoy.,plataforma,alta
+1436,"Apreciado equipo de soporte, La página de la universidad está muy lenta hoy.",plataforma,media
+1080,"Buenas tardes, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1519,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.,biblioteca,media
+1241,"Buenas tardes, Mi promedio (PAPA) aparece mal calculado en el sistema.",notas,media
+1563,Me aparece una multa en la biblioteca que no reconozco.,matricula,media
+1658,"Apreciado equipo de soporte, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1692,"Buenos días, ¿Dóndes olicito el diploma y acta de grado?",certificados,baja
+1128,"Buenas tardes, Quiero cancelar la asignatura Procesamiento de Lenguaje Natural antes de la fecha límite.",plataforma,alta
+1597,No puedo descargar arttículos de la base de datos institucional.,biblioteca,media
+1144,"Estimados, Necesito adicionar la materia Álgebra Lineal pero ya cerró el perioddo de adiciones.",matricula,alta
+1702,"Estimados, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1197,"Apreciado equipo de soporte, Necesito que revisen mi nota de Bases de Datos porque afecta mi grado.",notas,alta
+1889,"Hola, No puedo entrar al SIA para inscribir Machine Learning, ¿es problema de la plataforma o de matrícula?",matricula,media
+1503,"Cordial saludo, No puedo acceder a la plataforma Moodle del curso Estadística.",plataforma,media
+1066,Solicito información sobre el proceso de matrícula de la maestría.,matricula,baja
+1006,"Hola, ¿Cuándo abre el periodo de matrícula para el semestre 2026-2?",matricula,baja
+1713,"Hola, Requiero unp az y salvo financiero para iniciar mi grado.",certificados,alta
+1809,"Hola, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1329,Mi promedio (PAPA) aparece mal calculado en el sistema. Tengo plazo hasta hoy.,notas,alta
+1858,"Buenas, tengo una duda general sobre un proceso de la universidad.",plataforma,baja
+1765,Solicito el certificado de calificaciones para homologar en otra universidad.,matricula,media
+1227,¿Cuándo sep ublican las notas definitivas del semestre 2026-1?,notas,baja
+1254,"Apreciado equipo de soporte, El profesor de Cálculo Diferencial no ha subido las notas y mañana cierra el semestre. Cierra mañana.",notas,alta
+1055,"Cordial saludo, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1552,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.,biblioteca,media
+1867,"Estimados, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1744,"Apreciado equipo de soporte, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1350,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,media
+1339,"Buenas tardes, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1234,"Hola, ¿Dónde puedo consultar mi historia académica con las notas? Urgente.",notas,alta
+1024,"Buenos días, Quiero saber cuántos créditos puedo inscribbir este semestre.",matricula,baja
+1295,"Cordial saluod, La nota que registró el docente de Sistemas Inteligentes no coincide con la del examen.",notas,baja
+1424,"Apreciado equipo de soporte, Olvidé mi contraseña del correo institucional y no puedo recuperarla.",plataforma,media
+1533,"Buenos días, No puedo descargar artículos de la base de datos institucional.",biblioteca,media
+1832,"Hola, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",certificados,alta
+1626,Solicito ampliar el plazo de préstamo de un libro para mi tesis.,biblioteca,media
+1284,Necesito que revisen mi nota de Redes Neuronales porque afecta mi grado.,notas,alta
+1137,"Cordial saludo, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1838,"Hola, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1703,"Apreciado equipo de soporte, Necesito constancia de matrícula para el sisbén / EPS.",matricula,baja
+1243,Mi promedio (PAPA) aparece mal calculado en el sistema.,notas,media
+1759,"Hola, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1924,"Hola, La biblioteca dice que tengo multa y por eso no me deja matricular.",matricula,alta
+1384,"No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,alta
+1155,Quiero saber cuántos créditos puedo inscribir este semestre. Es muy importante.,matricula,alta
+1697,"Estimados, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1303,Solicito el reporte de notas parciales de mis materias. Es muy importante.,notas,alta
+1510,"Estimados, Tengo un paz y salvo ppendiente con la biblioteca y necesito graduarme.",biblioteca,alta
+1695,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1140,"Estimados, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1061,"Estimados, Quiero cancelar la asignatura Álgebra Lineal antes de la fecha límite.",matricula,media
+1081,"Estimados, Quiero cancelar la asignatura Álgebra Lineal antes de la fecha límite.",matricula,media
+1249,"Buenos días, ¿Dónde puedo consultar mi historia académica con las notas?",certificados,baja
+1665,"Hola, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1242,"Estimados, El profesor de Bases de Datos no ha subido las notas y mañana cierra el semestre.",notas,alta
+1316,"Hola, La nota que registró el docente de Procesamiento de Lenguaje Natural no coincide con la del examen.",notas,alta
+1731,Necesito un certificado de notas con urgencia para una beca que cierra hoy. Tengo plazo hasta hoy.,certificados,alta
+1021,"Buenos días, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1902,No aparece mi matrícula y tampoco puedo generar la constancia de estudios.,matricula,media
+1013,Quiero saber cuántos créditos puedo inscribir este semestre.,matricula,baja
+1856,"Cordial saludo, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1515,"Apreciado equipo de soporte, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1893,"Estimados, Buenas, tengo una duda generall sobre un proceso de la universidad.",plataforma,baja
+1523,Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.,biblioteca,alta
+1391,"No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,media
+1459,"Apreciado equipo de soporte, ¿Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1599,"Buenos días, No puedo descarga rartículos de la base de datos institucional.",biblioteca,alta
+1736,"Buenas tardes, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1343,"Apreciado equipo de soporte, Olvidé mi contraseña del correo institucional y no puedo recuperarla.",plataforma,media
+1748,Necesito un certificado de notas con urgencia para una beca que cierra hoy.,certificados,alta
+1493,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,alta
+1325,Necesito que reviseen mi nota de Cálculo Diferencial porque afecta mi grado.,notas,media
+1819,Necesito constancia de matrícula para el sisbén / EPS.,certificados,media
+1340,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión. Tengo plazo hasta hoy.,plataforma,alta
+1136,"Apreciado equipo de soporte, Pagué el recibo de matríucla pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1397,"Hola, La página de la universidad está muy lenta hoy.",plataforma,baja
+1332,"Estimados, La nota que registró el docente de Procesamiento de Lenguaje Natural no coincide con la del examen.",notas,media
+1614,¿Cuál es el horario de atención de la biblioteca? Urgente.,biblioteca,alta
+1806,"Estimados, Necesito constancia de matrícula para el sisbén / EPS.",certificados,media
+1257,"Cordial saludo, ¿Cuándo se publican las notas definitivas del semestre 2026-2?",notas,baja
+1883,"Apreciado equipo de soporte, Quiero reclamar una nota pero el SIA no me deja iniciar sesión.",notas,media
+1807,Necesito constancia de matrícula para el sisbén / EPS.,certificados,media
+1875,"Apreciado equipo de soporte, Tengo problemas para acceder a Moolde y ver mis calificaciones. Lo necesito ya.",plataforma,alta
+1104,"Cordial saludo, Solicito información sobre el proceso de matrícula de la maestría.",matricula,baja
+1511,¿Cuál es el horario de atención de la biblioteca?,biblioteca,baja
+1613,"Hola, ¿Cómo accedo a las bases de datos científicas desde casa? Urgente.",biblioteca,alta
+1308,Quiero hacerr un reclamo de calificación en la asignatura Programación.,notas,alta
+1881,"Apreciado equipo de soporte, Quiero reclamar una nota pero el SIA no me deja iniciar sesión.",notas,media
+1223,Solicito el reporte de notas parciales de mis materias.,notas,media
+1795,"Buenos días, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,alta
+1803,"Apreciado equipo de soporte, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",certificados,alta
+1785,"Hola, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1638,No puedo descargar artículos de la base de datos institucional.,biblioteca,media
+1792,Requiero un paz y salvo financiero para iniciar mi grado.,certificados,alta
+1067,"Buenas tardes, Me aparece un cruce de horarios entre Inteligencia Artificial y otra materia al matricular.",matricula,baja
+1683,Necesito constancia de matrícula para el sisbénn / EPS.,certificados,media
+1851,"Hola, La biblioteca dice que tengo multa y por eso no me deja matricular. Es para hoy.",matricula,alta
+1217,"Buenos días, El sistema no muestra la nota de Bases de Datos aunque ya presenté el examen.",notas,media
+1870,"Apreciado equipo de soporte, No puedo entrar al SIA para inscribir Minería de Datos, ¿es problema de la plataforma o de matrícula? Cierra mañana.",matricula,alta
+1012,"Buenos días, Necesito adicionar la materia Cálculo Diferencial pero ya cerró el periodo de adiciones. Es muy importante.",matricula,alta
+1323,"Estimados, Necesito que revisen mi nota de Inteligencia Artificial porque afecta mi grado.",notas,media
+1411,La plataforma SIA se cae cada vez que intento matricular.,plataforma,alta
+1015,"Cordial saludo, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1177,El sistema no muestra la nota de Bases de Datos aunque ya presenté el examen.,notas,baja
+1331,"Cordial saludo, Quiero hacer un reclamo de calificación en la asignatura Minería de Datos.",notas,media
+1365,Olvidé mi contraseña del correo institucional y no puedo recuperarla. Urgente.,plataforma,alta
+1108,"Hola, Necesito adicionar la materia Procesamiento de Lenguaje Natural pero ya cerró el periodo de adiciones.",matricula,alta
+1218,"Estimados, La nota que registró el docente de Bases de Datos no coincide con la del examen.",notas,media
+1237,"Buenas tardes, El sistema no muestra la nota de Redes Neuronales aunque ya presenté el examen.",notas,media
+1123,No me deja matricular porque tengo una deuda pendiente que ya pagué.,matricula,media
+1438,Olvidé mi contraseña del correo institucional y no puedo recuperarla.,plataforma,media
+1404,"Estimados, ¿Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1554,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.,biblioteca,media
+1775,"Buenos días, Pedí un certificcado hace dos semanas y aún no me lo entregan.",certificados,media
+1639,Devolví un libro pero todavía figura como prestado a mi nombre.,biblioteca,media
+1194,"Estimados, Mi promedio (PAPA) aparece mal calculado en el sistema.",notas,baja
+1641,"Buenos días, Devolví un libro pero todavía figura como prestado a mi nombre.",notas,media
+1575,"Buenos días, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.",biblioteca,alta
+1330,¿Cuándo se publican las notas definitivas del semestre 2026-1?,notas,baja
+1753,"Buenas tardes, ¿Cuánto cuesta y cuánto tarda un certificado de estudios? Tengo plazo hasta hoy.",certificados,alta
+1110,"Estimados, Quiero cancelar la asignatura Programación antes de la fecha límite.",matricula,media
+1524,"Buenos días, Me aparece una mult aen la biblioteca que no reconozco.",biblioteca,baja
+1931,"Buenas tardes, Buenas, tengo una duda general sobre un proceso de la universidad.",plataforma,baja
+1783,"Buenas tardes, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1681,Necesito constancia de matrícula para el sisbén / EPS. Tengo plazo hasta hoy.,certificados,alta
+1171,"Hola, Necestio que revisen mi nota de Sistemas Inteligentes porque afecta mi grado.",notas,alta
+1862,"Estimados ,Tengo problemas para acceder a Moodle y ver mis calificaciones.",plataforma,media
+1098,No me deja matricular porque tengo una deuda pendiente que ya pagué.,notas,alta
+1225,"Buenas tardes, Mi promedio (PAPA) aparece mal claculado en el sistema.",notas,media
+1064,No me deja matricular porque tengo una deuda pendiente que ya pagué.,matricula,alta
+1685,¿Cómo descargo el certificado de notas desde el SIA?,certificados,baja
+1196,"Estimados, El profesor de Estadística no ha subido las notas y mañana cierra el semestre.",notas,alta
+1345,No puedo acceder a la plataforma Moodle del curso Redes Neuronales.,plataforma,media
+1014,"Hola, Necesito adicionar la materia Procesamiento de Lenguaje Natural pero ya cerró el periodo de adiciones.",matricula,alta
+1028,"Buenas tardes, No puedo inscribir la asignatura Programación porque el sistema dice que no hay cupos.",matricula,alta
+1431,La plataforma SIA se cae cada vez quue intento matricular.,plataforma,alta
+1016,"Hola, Necesito adicionar la materia Procesamiento de Lenguaje Natural pero ya cerró el periodo de adiciones.",matricula,alta
+1830,"Apreciado equipo de soporte, Solicito el certificado de calificaciones para homologar en otra universidad. Cierra mañana.",certificados,alta
+1204,¿Cuándo se publican las notas definitivas del semestre 2027-1?,notas,baja
+1244,"Cordial saludo, La nota que registró el docente de Minería de Datos no coincide con la del examen.",notas,media
+1383,"Hola, No puedo acceder a la plataforma Moodle del curso Machine Learning.",plataforma,baja
+1817,¿Cómo descargo el certificado de notas desde el SIA? Lo necesito ya.,certificados,alta
+1849,"Cordial saludo, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1386,¿Cómo cativo mi cuenta institucional de la universidad?,plataforma,baja
+1049,"Buenos días, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado. Tengo plazo hasta hoy.",matricula,alta
+1004,"Buenas tardes, Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.",matricula,alta
+1612,"Buenos días, ¿Cuál es el horario de atención de la biblioteca? Tengo plazo hasta hoy.",biblioteca,alta
+1053,"Hola, Quiero cancelar la asignatura Minería de Datos antes de la fecha límtie.",matricula,media
+1454,La página de la universidad está muy lenta hoy.,plataforma,baja
+1315,"Hola, El sistema no muestra la nota de Bases de Datos aunque ya presenté el examen.",notas,media
+1399,"Estimados, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión. Es para hoy.",plataforma,alta
+1105,"Hola, Quiero saber cuántos créditos puedo inscribir este semestre. Cierra mañana.",matricula,alta
+1891,"Buenos días, Voy a graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",plataforma,alta
+1678,"Buenas tardes, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1656,Solicito ampliar el plazo de préstamo de un libro para mi tesis.,biblioteca,media
+1535,No puedo descargar artículos de la base de datos institucional.,biblioteca,media
+1650,"Buenos días, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.",biblioteca,media
+1048,"Hola, ¿Puedo hacer una adición extempoárnea de Estadística?",matricula,baja
+1452,"Estimados, El portal académico me muestra un error 500 al ingresar.",plataforma,alta
+1718,"Buenas tardes, Solicito el certificado de calificaciones para homologar en otra universidad. Es muy importante.",certificados,alta
+1545,"Cordial saludo, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1767,"Estimados, ¿Cuánto cuesta y cuánto tarda un certificado de estudios? Es muy importante.",certificados,alta
+1035,Necesito adicionar la materia Programación pero ya cerró el periodo de adiciones.,matricula,alta
+1221,"Apreciado equipo de soporte, El sistema no muestra la nota de Estadística aunque ya presenté el examen.",notas,baja
+1182,"Cordial saludo, El sistema no muestra la nota de Bases de Datos aunque ya presenté el examen.",notas,media
+1366,"Buenas tardes, La plataforma SIA se cae cada vez que intento matricular.",plataforma,alta
+1451,El portal académico me muestra un error 500 al ingresar.,plataforma,alta
+1157,Quiero saber cuántos créditos pueddo inscribir este semestre.,matricula,baja
+1279,Necesito que revisen mi nota de Inteligencia Artificial porque afecta mi grado.,notas,media
+1693,"Apreciado equipo de soporte, El certificado que descargué tiene mis datos personales equivocados. Lo necesito ya.",biblioteca,alta
+1884,"Cordial saludo, Buenas, tengo una duda general sobre un proceso de la universidad.",plataforma,baja
+1687,Necesito constancia de matrícula para el sisbén  /EPS.,certificados,media
+1079,"Buenos días, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1172,Solicito el reporte de notas parciales de mis materais.,notas,baja
+1821,"Estimados, Necesito constancia de maatrícula para el sisbén / EPS.",certificados,media
+1921,"Estimados, Necesito el certificado pero la plataforma no carga.",certificados,alta
+1127,"Estimados, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1301,"Apreciado equipo de soporte, El profesor de Bases de Datos no ha subido las notas y mañana cierra el semestre.",notas,media
+1906,El sistema no me deja ver mis notas ni descargar el certificado.,certificados,media
+1102,"Cordial saludo, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1621,"Apreciado equipo de soporte, ¿Cuál es el horario de atención de la biblioteca? Es para hoy.",plataforma,alta
+1018,"Apreciado equipo de soporte, Me aparece un cruce de horarios entre Machine Learning y otra materia al matricular.",matricula,media
+1174,"Buenas tardes, Quiero hacer un reclamo de calificación en la asignatura Sistemas Inteligentes.",notas,media
+1165,"Buenos días, Quiero cancelar la asignatura Minería de Datos antes de la fecah límite.",biblioteca,media
+1285,Aparece una asignatura como reprobada pero yo la aprobé.,notas,alta
+1482,"Estimados, La plataforma SIA se cae cada vez que intento matricular. Es para hoy.",plataforma,alta
+1143,"Buenas tardes, ¿Cuándo abre el periodo de matrícula para el semestre 2026-2?",matricula,baja
+1448,"Estimados, La página de la universidad está muy lenta hoy.",plataforma,baja
+1730,"Cordial saludo, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1248,"Hola, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1672,"Cordial saludo, ¿Cuál es el horario de atención de la biblioteca?",biblioteca,baja
+1561,Solicito ampliar el plazo de préstamo de un libro para mi tesis.,biblioteca,media
+1084,Quiero saber cuántos créditos puedo inscribir este semestre.,matricula,baja
+1069,"Hola, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1766,Solicito el certificado de calificaciones para homologar en otra universidad.,certificados,media
+1496,La página de la universidad está muy lenta hoy.,plataforma,baja
+1475,"Cordial saludo, ¿Cómo activo mi cuenta institucional de la universidad? Tengo plazo hasta hoy.",plataforma,alta
+1686,"Hola, ¿Cómo descargo el certificado de notas desde el SIA?",certificados,baja
+1882,Necesito el certificado pero la plataforma no carga.,certificados,alta
+1139,"Cordial saludo, No puedo inscribir la asignatura Inteligencia Artificial porque el sistema dice que no hay cupos. Lo necesito ya.",certificados,alta
+1863,"Buenas tardes, Solicito ayuda con un trámite, no sé bien a qué área corresponde.",plataforma,baja
+1117,"Hola, Necesito adicionar la materia Álgebra Lineal pero ya cerró el periodo de adiciones.",matricula,alta
+1256,"Cordial saludo, La nota que registró el docente de Bases de Datos no coincide con la del examen.",notas,media
+1010,"Estimados, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1038,Necesito adicionar la materia Sistemas Inteligentes pero ya cerró el periodo de adiciones.,matricula,alta
+1406,"Cordial saludo, ¿Cuál es el enlace correcto para entrar al sistema académico? Cierra mañana.",plataforma,alta
+1199,"Buenos días, Necesito que revisen mi nota de Redes Neuronales porque afecta mi grado.",notas,alta
+1843,"Buenos días, ¿Cómo descargo el certificado de notas desde el SIA? Urgente.",certificados,alta
+1763,Solicito una constancia de estuddios para un trámite laboral.,certificados,baja
+1351,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,alta
+1925,"Cordial saludo, Tengo problemas para acceder a Moodle y ver mis calificaciones.",plataforma,media
+1472,"Apreciado equipo de soporte, La plataforma SIA se cae cada vez que intento matricular. Lo necesito ya.",plataforma,alta
+1908,Necesito el certificado pero la plataforma no carga.,certificados,alta
+1711,"Buenas tardes, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",certificados,alta
+1913,"Hola, No aparece mi matrícula y tampoco puedo generar la constancia de estudios. Es muy importante.",matricula,alta
+1074,Necesito adicionar la materia Minería de Datos pero ya cerró el periodo de adiciones.,matricula,alta
+1900,"Cordial saludo, Tengo problemas para acceder a Moodle y ver mis calificaciones. Es para hoy.",plataforma,alta
+1834,"Apreciado equipo de ssoporte, ¿Dónde solicito el diploma y acta de grado? Cierra mañana.",certificados,alta
+1045,Solicito información sobre el proceso de matrícula de la maestría.,matricula,baja
+1518,"Apreciado equipo de soporte, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,baja
+1212,"Hola, Quiero hacer un reclamo de calificación en la asignatura Procesamiento de Lenguaje Natural.",notas,media
+1258,"Hola, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1168,"Apreciado equipo de soporte, Quiero cancelar la asignatura Minería de Datos antes de la fecha límite.",matricula,media
+1461,"Hola, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,alta
+1419,Olvidé mi contraseña del correo institucional y no puedo recuperarla.,plataforma,alta
+1333,Quiero hacer un reclamo de calificación en la asignatura Estadística.,notas,media
+1516,"Estimados, Quiero reservar una sala de estudio en la biblioteca.",biblioteca,baja
+1107,No puedo inscribir la asignatura Sistemas Inteligentes porque el sistema dice que no hay cupos.,matricula,media
+1773,Necesito ocnstancia de matrícula para el sisbén / EPS.,certificados,baja
+1078,"Estimados, Quiero cancelar la asignatura Inteligencia Artificial antes de la fecha límite.",matricula,media
+1886,Tengo problemas para acceder a Moodle y ver mis calificaciones.,plataforma,media
+1124,"Buenas tardes, Quiero cancelar la asignatura Programación antes de la fecha límite.",matricula,alta
+1907,Necesito el certificado pero la plataforma no carga.,certificados,alta
+1780,"Cordial saludo, ¿Dónde solicito el diplomma y acta de grado?",certificados,baja
+1421,"Buenas tardes, No puedo acceder a la plataforma Moodle del curso Sistemas Inteligentes.",plataforma,media
+1505,No me llega el correo de verificación para restablecer la contraseña.,plataforma,media
+1222,"Buenas tardes, La nota que registró el docente de Procesamiento de Lenguaje Natural no coincide con la del examen.",notas,media
+1739,Solicito una constancia de estudios para un trámite laboral.,certificados,media
+1743,Pedí un certificado hace dos semanas y aún no me lo entregan.,certificados,baja
+1714,"Hola, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1068,"Apreciado equipo de soporte, No me deja matricular porque tengo una deuda pendient eque ya pagué.",matricula,alta
+1682,"Apreciado equipo de soporte, ¿Cómo descargo el certificado de notas desde el SIA? Lo necesito ya.",certificados,alta
+1892,"Buenos días, Necesito el certificado pero la plataforma no carga.",certificados,alta
+1550,"Cordial saludo, ¿Cuáll es el horario de atención de la biblioteca?",biblioteca,baja
+1643,"Apreciado equipo de soporte, Quiero reservar una sala de estudio en la biblioteca.",biblioteca,baja
+1280,"Buenas tardes, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1161,"Hola, Me aparece un cruce de horarios entre Cálculo Diferencial y otra materia al matricular.",matricula,media
+1245,"Hola, La nota que registró el docente de Redes Neuronales no coincide con la del examen.",notas,media
+1044,Quiero cancelar la asignatura Machine Learning antes de la fecha límite.,matricula,alta
+1808,"Buenos días, Solicito una constanciaa de estudios para un trámite laboral.",certificados,baja
+1402,"Apreciado equipo de soporte,¿ Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1097,Necesito adicionar la materia Cálculo Diferencial pero ya cerró el periodo de adiciones.,matricula,alta
+1864,"Solicito ayuda con un trámite, no sé bien a qué área corresponde.",plataforma,baja
+1715,"Beunas tardes, ¿Dónde solicito el diploma y acta de grado?",certificados,baja
+1187,"Cordial saludo, Mi promedio (PAPA) aparece mal calculado en el sistema. Lo necesito ya.",notas,alta
+1674,"Cordial saludo, Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.",biblioteca,alta
+1393,"Buenos días, No puedo acceder a la plataforma Moodle del curso Sistemas Inteligentes. Es para hoy.",plataforma,alta
+1468,"Cordial saludo, No me llega el correo de verificación para restablecer la contraseña. Lo necesito ya.",plataforma,alta
+1865,"Buenas tardes, El sistmea no me deja ver mis notas ni descargar el certificado.",biblioteca,media
+1750,"Buenas tardes, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1632,Me aparece una multa en la biblioteca que no reconozco.,biblioteca,baja
+1183,"Buenas tardes, El sistema no muestra la nota de Redes Neuronales aunque ya presenté el examen.",notas,media
+1255,"Cordial saludo, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta
+1425,"Buenas tardes, La plataforma SIA se cae cada vez que intento matricular.",plataforma,alta
+1179,"Hola, Solicitoo el reporte de notas parciales de mis materias.",notas,baja
+1627,¿Cuál es el horario de atención de la biblioteca?,biblioteca,baja
+1879,"Cordial saludo, Buenas, tengo una duda general sobre un proceso de la universidad. Tengo plazo hasta hoy.",plataforma,alta
+1304,"Estimados, Necesito que revisen mi nota de Cálculo Diferencial porque afecta mi grado.",notas,alta
+1811,"Hola, Requiero un paz y salvo financiero para iniciar mi grado.",certificados,alta
+1728,"Estimados, Necesito un certificado de notas con urgencia para una beca que cierra hoy.",certificados,media
+1717,Necesito constancia de matrícula para el sisbén / EPS.,certificados,media
+1355,El portal académico me muestra un error 500 al ingersar. Es muy importante.,plataforma,alta
+1467,"Apreciado equipo de soporte, El portal académico me muestra un error 500 al ingresar.",certificados,alta
+1661,"Buenas tardes, Solicito ampliar el plazo de préstamo de un libro para mi tesis.",biblioteca,media
+1294,"Buenos días, El sistema no muestra la nota de Álgebra Lineal aunque ya presenté el examen. Tengo plazo hasta hoy.",notas,alta
+1093,"Cordial saludo, Me aparece un cruce de horarios entre Minería de Datos y otra materia al matricular.",matricula,baja
+1754,"Buenas tardes, Pedí un certificado hace dos semanas y aún no me lo entregan. Es muy importante.",certificados,alta
+1040,"Apreciado equipo de soporte, No puedo inscribir la asignatura Cálculo Diferencial porque el sistema dice que no hay cupos.",matricula,alta
+1589,¿Cómo accedo a las bases de datos científicas desde casa?,biblioteca,media
+1473,"Apreciado equipo de soporte, ¿Cuál es el enlace correcto para entrar al sistema académico?",plataforma,baja
+1471,"Hola, No puedo iniciar sesión en el SIA, me dice usuario o contraseña incorrectos.",plataforma,media
+1502,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,notas,alta
+1582,"Apreciado equipo de soporte, El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar. Urgente.",biblioteca,alta
+1916,"Buenos días, No aparece mi matrícula y tampoco puedo generar la constancia de estudios.",matricula,media
+1538,"Buenos días, ¿Cómo accedo a las bases de datos científicas desde casa?",biblioteca,baja
+1252,¿Dónde puedo consultar mi historia académica con las notas?,notas,baja
+1826,"Hola, El certificado que descargué tiene mis datos personales equivocados.",certificados,media
+1619,"Buenos días, Devolví un libro pero todavía figura como pprestado a mi nombre.",biblioteca,alta
+1408,Olvidé mi contraseña del correo institucional y no puedo recuperarla.,plataforma,media
+1844,"Buenas tardes, Necesito un certifficado de notas con urgencia para una beca que cierra hoy.",certificados,media
+1922,"Cordial saludo, La biblioteca dice que tengo multa y por eso no me deja matricular. Es muy importante.",matricula,alta
+1456,"Buenos días, No puedo acceder a la plataforma Moodle del curso Redes Neuronales.",plataforma,media
+1146,"Cordial saludo, Necesito adicionar al materia Álgebra Lineal pero ya cerró el periodo de adiciones. Urgente.",matricula,alta
+1007,"Cordial saludo, Me aparece un cruce de horarios eentre Procesamiento de Lenguaje Natural y otra materia al matricular.",matricula,baja
+1206,"Estimados, Necesito que revisen mi nota de Sistemas Inteligentes porque afecta mi grado.",notas,alta
+1282,"Apreciado equipo de soporte, Necesito que revisen mi nota de Programación porque afecta mi grado.",notas,alta
+1469,"Apreciado equipo de soporte, La plataforma SIA se cae cada vez que intento matricular.",biblioteca,media
+1701,"Hola, El certificado que descargué tiene mis datos personales equivocados.",certificados,alta
+1733,"Buenas tardes, El certificado que descargué tiene mis datos personales equivocados. Es para hoy.",certificados,alta
+1514,Necesito renovar el préstamo de un libro que vence hoy. Es para hoy.,biblioteca,alta
+1207,"Buenas tardes, Aparece una asignatura como reprobada pero yo la aprobé.",notas,media
+1601,Solicito ampliar el plazo de préstamo de un libro para mi tesis. Es muy importante.,biblioteca,alta
+1866,"Buenas tardes, Voy a graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1588,"Buenas tardes, ¿Cómo accedo a las bases de datos científicas desde casa?",biblioteca,baja
+1618,"Hola, Devolví un libro pero todavía figura como prestado a mi nombre. Tengo plazo hasta hoy.",biblioteca,alta
+1162,"Cordial saludo, Quiero cancelar la asignatura Redes Neuronales antes de la fecha límite. Es muy importante.",matricula,alta
+1918,"Cordial saludo, Voy a graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1680,¿Cómo descargo el certificado de notas desde el SIA? Tengo plazo hasta hoy.,certificados,alta
+1726,¿Cómo descargo el certificado de notas desde el SIA? Tengo plazo hasta hoy.,certificados,alta
+1837,"Estimados, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1442,Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.,plataforma,alta
+1317,¿Cuándo se publican las notas definitivas del semsetre 2026-1?,notas,media
+1894,"Buenas, tengou na duda general sobre un proceso de la universidad.",plataforma,baja
+1133,"Cordial saludo, Me aparece un cruce de horarios entre Minería de Datos y otra materia al matricular.",certificados,media
+1211,Aparece una asignatura como reprobada pero yo la aprobé. Es para hoy.,notas,alta
+1398,"Buenas tardes, La plataforma SIA se cae cada vez que intento matricular.",plataforma,alta
+1070,Solicito información sobre el proceso de matrrícula de la maestría. Urgente.,matricula,alta
+1760,"Buenas tardes, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1489,"Buenos días, La página de la universidad está muy lenta hoy.",plataforma,baja
+1428,"Buenas tardes, No puedo acceder a la plataforma Moodle del curso Procesamiento de Lenguaje Natural.",plataforma,media
+1549,El sistema de la biblioteca no me deja hacer el préstamo de un ejemplar.,biblioteca,media
+1132,"Buenos días, Solicito información sobre el proceso de matrícula de la maestría.",matricula,baja
+1113,Pagué el recibo de matrícula pero el sistema sigue mostrándome como no matriculado.,matricula,alta
+1160,"Buenas tardes, Quiero saber cuántos créditos puedo inscribir etse semestre.",matricula,baja
+1923,La biblioteca dice que tengo multa y por eso no me deja matricular.,matricula,alta
+1420,La plataforma SIA se cae cada vez que intento matricular. Es para hoy.,plataforma,alta
+1880,"Apreciado equipo de soporte, El sistema no me deja ver mis notas ni descargar el certificado.",certificados,media
+1334,"Buenos días, La nota que registró el docente de Minería de Datos no coincide con la del eexamen. Urgente.",notas,alta
+1910,"Buenas, tengo una duda general sobre un proceso de la universidad.",plataforma,baja
+1011,Quiero saber cuántos créditos puedo inscribir este semestre.,matricula,baja
+1530,Solicito ampliar ell plazo de préstamo de un libro para mi tesis.,biblioteca,media
+1377,"Buenos días, ¿Cuál es el enlace correcto para entrar al sisteema académico?",plataforma,baja
+1058,"Buenos días, Necesito adicionar la materia Inteligencia Artificial pero ya cerró el periodo de adiciones.",matricula,alta
+1465,"Apreciado equipo de soporte, No puedo acceder a la plataforma Moodle del curso Machine Learning.",plataforma,media
+1897,Necesito el certificado pero la platafoorma no carga.,certificados,alta
+1536,Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.,biblioteca,media
+1675,¿Cuál es el horario de atención de la biblioteca?,biblioteca,baja
+1298,"Apreciado equipo de soporte, Quiero hacer un reclamo de calificación en la asignatura Inteligencia Artificial.",notas,media
+1238,El profesor de Minería de Datos no ha subido las notas y mañana cierra el semestre.,notas,alta
+1210,"Estimados, ¿Cuándo se publican las notas definitivas del semestre 2026-1?",notas,baja
+1290,"Cordial saludo, Necesito que revisen mi nota de Redes Neuronales porque afecta mi grado.",notas,alta
+1920,"Buenas tardes, No puedo entrar al SIA para inscribir Redes Neuronales, ¿es problema de la plataforma o de matrícula?",matricula,media
+1071,"Buenos días, Necesito adicionar la materia Procesamiento de Lenguaje Natural pero ya cerró el periodo de adiciones.",matricula,alta
+1203,"Buenas tardes, Mi promedio (PAPA) aparece mal calculado en el sistema. Es muy importante.",notas,alta
+1191,"Buenos días, Solicito el reporte de notas parciales d emis materias.",notas,baja
+1027,"Apreciado equipo de soporte, ¿Cuándo abre el periodo de matrícula para el semestre 2026-2?",matricula,baja
+1500,La plataforma SIA se cae cada vez que intento matricular.,plataforma,alta
+1930,"Buenos días, Voy a graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1705,"Estimados, Solicito una constancia de estudios para un trámite laboral.",certificados,media
+1846,"Estimados, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,baja
+1032,"Estimados, Quiero cancelar la asignatura Programación antes de la fecha límitte.",matricula,baja
+1181,"Buenas tardes, Solicito el reporte de notas parciales de mis materias.",notas,baja
+1566,Tengo un paz y salvo pendiente con la biblioteca y necesito graduarme.,biblioteca,media
+1691,¿Dónde solicito eld iploma y acta de grado? Lo necesito ya.,certificados,alta
+1106,"Cordial saludo, No me deja matricular porque tengo una deuda pendiente que ya pagué.",matricula,alta
+1175,"Hola, El sistema no muestra la nota de Bases de Datos aunque ya presenté el examen.",notas,media
+1095,"Buenas tardes, Quiero saber cuántos créditos puedo inscribir este semestre.",matricula,baja
+1311,"Hola, ¿Dónde puedo consultar mi historia académica con las notas?",notas,baja
+1654,Me aparece una multa en la biblioteca que no reconozco.,certificados,baja
+1462,"Cordial saludo, La plataforma SIA se cae cada vez que intento matricular.",plataforma,media
+1583,"Estimados, Necesito renovar el préstamo de un libro que vence hoy.",biblioteca,alta
+1336,Mi promedio (PAPA) aparece mal calculado en el sistema. Cierra mañana.,notas,alta
+1111,No puedo inscribir la asignatura Redes Neuronales porque el sistema dice que no hay cupos.,matricula,alta
+1486,No puedo acceder a la plataforma Moodle del curso Sistemas Inteligentes. Es muy importante.,plataforma,alta
+1192,"Buenos días, El sistema no muestra la nota de Álgebra Lineal aunque ya presenté el examen.",notas,baja
+1395,Olvidé mi contraseña del correo institucionnal y no puedo recuperarla.,plataforma,media
+1547,"Buenas tardes, Quiero reservar una sala de estudio en la biblioteca.",biblioteca,baja
+1065,"Buenas tardes, No puedo inscribir la asignatura Minería de Datos porque el sistema dice que no hay cupos.",matricula,alta
+1926,"Buenas tardes, No aparece mi matrícula y tampoco puedo generar la constancia de estudios. Es para hoy.",matricula,alta
+1209,Solicito elr eporte de notas parciales de mis materias.,notas,baja
+1390,"Apreciado equipo de soporte, Mi usuario quedó bloqueado tras varios intentos de inicio de sesión.",plataforma,media
+1400,La página de la universidad está muy lenta hoy.,plataforma,baja
+1887,"Buenas tardes, Voy aa graduarme y me falta el paz y salvo de biblioteca y el certificado de notas.",certificados,alta
+1587,"Estimados, No puedo descargar artículos de la base de datos institucional.",matricula,media
+1622,Necesito renovaar el préstamo de un libro que vence hoy.,biblioteca,alta
+1617,Quiero reservar una sala de estudio en la biblioteca.,biblioteca,baja
+1818,"Apreciado equipo de soporte, ¿Cuánto cuesta y cuánto tarda un certificado de estudios?",certificados,media
+1644,"Buenos días, Me aparece una multa en la biblioteca que no reconozco.",biblioteca,media
+1581,Quiero reservar una sala de estudio en la biblioteca.,biblioteca,baja
+1338,"Cordial saludo, Aparece una asignatura como reprobada pero yo la aprobé.",notas,alta

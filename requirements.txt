@@ -1,0 +1,19 @@
+# --- Núcleo de datos y ML (Nivel 3) ---
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+xgboost>=2.0
+matplotlib>=3.8
+joblib>=1.3
+
+# --- LangChain (Nivel 2) ---
+langchain>=0.3
+langchain-core>=0.3
+langchain-ollama>=0.2
+langchain-text-splitters>=0.3
+pydantic>=2.5
+gradio>=6.0
+# RAG: se usa InMemoryVectorStore (langchain-core) + embeddings de Ollama,
+# por lo que no se requiere FAISS ni otra base vectorial externa.
+# Alternativa con OpenAI (si no se usa Ollama local):
+# langchain-openai>=0.2

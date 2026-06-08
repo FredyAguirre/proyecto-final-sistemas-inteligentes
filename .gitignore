@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+_template_text.txt
+.playwright-mcp/
+.gradio/
+
+# --- No se suben al repositorio (entrega por correo / YouTube-Drive, o material interno) ---
+# videos -> van a YouTube/Drive, no al repo
+videos/
+# plantilla e instrucciones originales del profesor
+material_base/
+# el .pptx va por correo; guiones/guia .docx son internos
+entregables/
+# generadores de pptx/guia/guion/subtitulos (no es codigo del proyecto)
+scripts/
+# guiones de los videos, checklist y texto fuente del pptx (internos)
+docs/guion_video_*.md
+docs/checklist_entrega.md
+docs/contenido_plantilla.md
+_pptx_dump.txt
+*.tmp
